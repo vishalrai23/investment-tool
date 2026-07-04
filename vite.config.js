@@ -7,5 +7,5 @@ import react from "@vitejs/plugin-react";
 // if you rename the repo, update this line to match.
 export default defineConfig({
   plugins: [react()],
-  base: "/stable-money-smartinvest-discovery/",
+  base: "/investment-tool/",
 });
